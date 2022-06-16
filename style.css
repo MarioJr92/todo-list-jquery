@@ -1,5 +1,11 @@
+body {
+  background-color: deepskyblue;
+  margin: 0 auto;
+}
+
 h2 {
-  color: blue;
+  color: #fff;
+  text-align: center;
 }
 
 .delete {
